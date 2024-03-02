@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\NumberGuessUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B132EF5A-F801-A6BB-26B6-2AEF46CBD71D}|Assembly-CSharp.csproj|c:\\users\\jorda\\documents\\my code\\unity\\numberguessui\\assets\\scripts\\numberguessui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132EF5A-F801-A6BB-26B6-2AEF46CBD71D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\numberguessui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B132EF5A-F801-A6BB-26B6-2AEF46CBD71D}|Assembly-CSharp.csproj|C:\\Users\\jorda\\Documents\\My Code\\Unity\\NumberGuessUI\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132EF5A-F801-A6BB-26B6-2AEF46CBD71D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B132EF5A-F801-A6BB-26B6-2AEF46CBD71D}|Assembly-CSharp.csproj|C:\\Users\\jorda\\Documents\\My Code\\Unity\\NumberGuessUI\\assets\\scripts\\guessnumberselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132EF5A-F801-A6BB-26B6-2AEF46CBD71D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guessnumberselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\NumberGuessUI\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\NumberGuessUI\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T05:04:56.096Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumberGuessUI.cs",
+              "DocumentMoniker": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\NumberGuessUI\\Assets\\Scripts\\NumberGuessUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NumberGuessUI.cs",
+              "ToolTip": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\NumberGuessUI\\Assets\\Scripts\\NumberGuessUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NumberGuessUI.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA5wDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T04:55:59.313Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuessNumberSelector.cs",
+              "DocumentMoniker": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\NumberGuessUI\\Assets\\Scripts\\GuessNumberSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GuessNumberSelector.cs",
+              "ToolTip": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\NumberGuessUI\\Assets\\Scripts\\GuessNumberSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GuessNumberSelector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:34:25.117Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
